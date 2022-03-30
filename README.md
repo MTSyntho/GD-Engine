@@ -7,4 +7,6 @@ Here is a video he made about it:
 https://www.youtube.com/watch?v=9-fE7cwcWU0
 https://www.youtube.com/watch?v=s518r1xMtI0
 
+Yay! You read all this useless information! Just wanna say will have a bit or alot more feature than the original FNF already has.
+
 That is all I have to say, just wait for the release so you can play it.
