@@ -11,3 +11,5 @@ Yay! You read all this useless information! Just wanna say will have a bit or al
 To open this you require the latest version of GDevelop 5, when in GD5 open the game.json file.
 
 That is all I have to say, just wait for the release so you can play it.
+
+Used to be called ProjectFNF-GDevelop
