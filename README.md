@@ -1,4 +1,4 @@
-# ProjectFNF-GDevelop
+# GD Engine - FNF in GDevelop
 This is FNF in GDevelop 5 and it WILL be very E P I C !!!
 
 This is a work in progress but i am working on it and i will be releasing every update I make as well as open-source of course why else am I putting it on github?
