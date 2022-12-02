@@ -14,4 +14,6 @@ That is all I have to say, just wait for the release so you can play it.
 
 Used to be called ProjectFNF-GDevelop
 
-Note: The project has gotten a rename due to the fact the name GD Engine is a common name for a Friday Night Funkin' Engines in GDevelop 5
+Note: The project has gotten a rename due to the fact the name GD Engine is a common name for a Friday Night Funkin' Engines in GDevelop 5  
+The project is in a new repository too now.  
+https://github.com/Official-IceCreeperPE/dar-kice-engine-fnf
